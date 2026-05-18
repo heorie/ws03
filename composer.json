@@ -1,0 +1,10 @@
+{
+    "name": "selahbunag18-glitch/ws03-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Framework\\": "Framework/"
+        }
+    },
+    "require": {}
+}
