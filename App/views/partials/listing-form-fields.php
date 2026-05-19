@@ -2,7 +2,7 @@
 <div class="form-group <?= isset($errors['title']) ? 'has-error' : '' ?>">
   <label for="title">Job Title <span class="required">*</span></label>
   <input type="text" id="title" name="title" class="form-control"
-         placeholder="e.g. Senior Web Developer"
+         placeholder="e.g. Senior Web Developer" 
          value="<?= e($listing->title ?? '') ?>" />
   <?php if (isset($errors['title'])): ?><span class="form-error"><?= e($errors['title']) ?></span><?php endif; ?>
 </div>
