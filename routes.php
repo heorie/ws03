@@ -3,7 +3,7 @@
 use Framework\Router;
 
 /** @var Router $router */
-
+ 
 // Home
 $router->get('/', 'HomeController@index');
 
