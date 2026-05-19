@@ -8,7 +8,7 @@
       <div class="nav-links" id="navLinks">
         <a href="<?= url('/listings') ?>" class="nav-link">
           <i class="fa fa-th-list"></i> Browse Jobs
-        </a>
+        </a> 
 
         <?php if (isAuthenticated()): ?>
           <span class="nav-user">
