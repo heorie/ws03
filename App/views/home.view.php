@@ -5,7 +5,7 @@
 <?php loadPartial('top-banner') ?>
 
 <section class="section">
-  <div class="container">
+  <div class="container"> 
     <div class="section-header">
       <h2 class="section-title">Recent Job Listings</h2>
       <p class="section-subtitle">Hand-picked opportunities just posted</p>
