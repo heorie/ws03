@@ -5,7 +5,7 @@
     <p class="showcase-subtitle">Thousands of opportunities waiting for you — search, apply, succeed.</p>
 
     <form action="<?= url('/listings') ?>" method="GET" class="search-form">
-      <div class="search-fields">
+      <div class="search-fields"> 
         <div class="search-field">
           <i class="fa fa-search search-icon"></i>
           <input
