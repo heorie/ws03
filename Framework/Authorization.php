@@ -4,7 +4,7 @@ namespace Framework;
 
 use Framework\Session;
 
-class Authorization{
+class Authorization{ 
     /**
      * Check if logged in user owns a listing
      * 
