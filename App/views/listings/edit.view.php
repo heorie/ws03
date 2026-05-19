@@ -1,6 +1,6 @@
 <?php loadPartial('head') ?>
 <?php loadPartial('navbar') ?>
-
+ 
 <section class="section">
   <div class="container container-narrow">
     <a href="<?= url('/listings/' . (int)$listing->id) ?>" class="back-link">
