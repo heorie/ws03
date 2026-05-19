@@ -2,7 +2,7 @@
 <?php loadPartial('head') ?>
 <?php loadPartial('navbar') ?>
 <?php loadPartial('flash') ?>
-
+ 
 <section class="section">
   <div class="container container-narrow">
 
