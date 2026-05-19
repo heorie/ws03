@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Controllers;
-
+ 
 class ErrorController
 {
     public static function notFound(string $message = 'The page you requested could not be found.'): void
