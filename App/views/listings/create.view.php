@@ -1,6 +1,6 @@
 <?php loadPartial('head') ?>
 <?php loadPartial('navbar') ?>
-
+ 
 <section class="section">
   <div class="container container-narrow">
     <div class="page-header">
