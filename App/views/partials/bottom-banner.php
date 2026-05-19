@@ -3,7 +3,7 @@
     <div>
       <h2>Ready to hire great talent?</h2>
       <p>Post your job listing in minutes and reach thousands of applicants.</p>
-    </div>
+    </div> 
     <div class="bottom-banner-actions">
       <?php if (isAuthenticated()): ?>
         <a href="<?= url('/listings/create') ?>" class="btn btn-accent">
