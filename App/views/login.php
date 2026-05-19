@@ -4,7 +4,7 @@
 <div>
   <h2>Login</h2>
   <form method="POST" action="/ws03/public/login">
-    <div>
+    <div> 
       <label>Email</label>
       <input type="email" name="email" required />
     </div>
