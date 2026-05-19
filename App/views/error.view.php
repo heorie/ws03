@@ -3,7 +3,7 @@
 
 <section class="section auth-section">
   <div class="container">
-    <div class="error-card">
+    <div class="error-card"> 
       <div class="error-code"><?= e($status ?? '404 Error') ?></div>
       <p class="error-message"><?= e($message ?? 'The page you requested could not be found.') ?></p>
       <div class="error-actions">
