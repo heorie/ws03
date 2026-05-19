@@ -6,7 +6,7 @@
     ],
     "content-hash": "914620d60ffa33a6f977f959ad705a90",
     "packages": [],
-    "packages-dev": [],
+    "packages-dev": [], 
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {},
