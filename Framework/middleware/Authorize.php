@@ -5,7 +5,7 @@ namespace Framework\Middleware;
 use Framework\Session;
 
 class Authorize {
-    /**
+    /** 
      * Check if user is authenticated
      * 
      * @return bool
