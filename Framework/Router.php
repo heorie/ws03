@@ -3,7 +3,7 @@
 namespace Framework;
 
 use App\Controllers\ErrorController;
-
+ 
 class Router
 {
     private array $routes = [];
