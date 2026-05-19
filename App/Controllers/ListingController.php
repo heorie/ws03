@@ -112,7 +112,7 @@ class ListingController
 
         loadView('listings/show', ['listing' => $listing]);
     }
-
+ 
     /* ── EDIT ───────────────────────────────────────────── */
     public function edit(array $params = []): void
     {
