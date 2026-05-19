@@ -2,7 +2,7 @@
 <?php loadPartial('navbar') ?>
 <?php loadPartial('showcase-search') ?>
 <?php loadPartial('flash') ?>
-
+ 
 <section class="section">
   <div class="container">
     <div class="section-header">
