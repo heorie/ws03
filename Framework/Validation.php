@@ -5,7 +5,7 @@ namespace Framework;
 class Validation {
     /**
      * Validate a string
-     * 
+     *  
      * @param string $value
      * @param int $min
      * @param int $max
