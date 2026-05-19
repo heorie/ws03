@@ -3,7 +3,7 @@
     <div class="footer-brand">
       <a href="<?= url('/') ?>" class="brand">
         <i class="fa fa-briefcase brand-icon"></i> Jobseek
-      </a>
+      </a> 
       <p>Connecting talent with opportunity.</p>
     </div>
     <nav class="footer-nav">
