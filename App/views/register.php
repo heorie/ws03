@@ -2,7 +2,7 @@
 <?php require basePath('App/views/partials/navbar.php'); ?>
 
 <div>
-  <h2>Register</h2>
+  <h2>Register</h2> 
   <form method="POST" action="/ws03/public/register">
     <div>
       <label>Name</label>
